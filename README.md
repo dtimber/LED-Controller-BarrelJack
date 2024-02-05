@@ -1,5 +1,7 @@
 # LED-Controller-BarrelJack
-Controller for WS2812B LEDs specially made for monitor backlighting with [WLED](https://kno.wled.ge/) and [Lightpack](https://github.com/psieg/Lightpack). [Video example @ YouTube](https://youtu.be/EE_DajBsjAQ)
+Controller for WS2812B LEDs specially made for monitor backlighting with [WLED](https://kno.wled.ge/) and [Lightpack](https://github.com/psieg/Lightpack).
+
+[Video example @ YouTube](https://youtu.be/EE_DajBsjAQ)
 
 Controller can be attached to VESA 75 / 100 monitor mount using the case included in this repo.
 
