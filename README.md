@@ -1,5 +1,7 @@
 # LED-Controller-BarrelJack
-Controller for WS2812B LEDs specially made for monitor backlighting with [WLED](https://kno.wled.ge/) and [Lightpack](https://github.com/psieg/Lightpack). Controller can be attached to VESA 75 / 100 monitor mount using the case included in this repo.
+Controller for WS2812B LEDs specially made for monitor backlighting with [WLED](https://kno.wled.ge/) and [Lightpack](https://github.com/psieg/Lightpack). [Video example @ YouTube](https://youtu.be/EE_DajBsjAQ)
+
+Controller can be attached to VESA 75 / 100 monitor mount using the case included in this repo.
 
 Firmware can be flashed without additional power supply connected to the barrel jack connector.
 
@@ -9,8 +11,6 @@ Controller uses two pin headers to control the power for the LEDs:
 * Software Control -> LEDs can be switched on and off within WLED firmware (relay function on GPIO 15)
 
 ![Front](https://github.com/dtimber/LED-Controller-BarrelJack/blob/main/Pictures/Rendering.PNG)
-
-[![Example Video](https://github.com/dtimber/LED-Controller-BarrelJack/blob/main/Pictures/ExampleVideo.PNG)](https://youtu.be/EE_DajBsjAQ)
 
 Additional Parts required:
 * 1x Power Supply with 5V (Current depends on LED stripe length) with 5.5 mm / 2.1 mm barrel jack connector for example: Mean Well GST60A05
