@@ -10,6 +10,8 @@ Controller uses two pin headers to control the power for the LEDs:
 
 ![Front](https://github.com/dtimber/LED-Controller-BarrelJack/blob/main/Pictures/Rendering.PNG)
 
+[![Example Video](https://github.com/dtimber/LED-Controller-BarrelJack/blob/main/Pictures/ExampleVideo.PNG)](https://youtu.be/EE_DajBsjAQ)
+
 Additional Parts required:
 * 1x Power Supply with 5V (Current depends on LED stripe length) with 5.5 mm / 2.1 mm barrel jack connector for example: Mean Well GST60A05
 * 1x USB Type A to C or Type C to C cable
